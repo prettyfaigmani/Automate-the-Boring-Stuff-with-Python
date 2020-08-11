@@ -8,7 +8,7 @@
 # 1 rope
 # 6 torch
 # 1 dagger
-# Total number of items: 62
+# Total number of items: 62'''
 
 def displayInventory(inventory):
     print("Inventory:")
